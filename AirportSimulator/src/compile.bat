@@ -1,0 +1,1 @@
+g++ -o ../bin/game main.cpp Game.cpp Airport.cpp Plane.cpp  -I"C:\SFML-2.5.1\SFML-2.5.1\include" -L"C:\SFML-2.5.1\SFML-2.5.1\lib" -lsfml-graphics -lsfml-window -lsfml-system
